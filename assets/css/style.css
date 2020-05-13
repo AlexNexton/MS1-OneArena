@@ -1,4 +1,34 @@
 
+/*-------------------------------------------Hero Image */
+
+.joinus{
+    background: rgba(0,0,0,0.5); 
+    color: #fafafa;
+}
+
+.joinus p small{
+    color: #fafafa;
+}
+
+.highlight{
+    background: #58b855;
+}
+
+
+.joinus-container{
+    height: 100vh;
+    background: url(../img/redshirt.jpg) no-repeat top fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+     background-size: cover;
+     
+     display: flex;
+     align-items: center;
+     justify-content: center;
+
+     position: relative;
+}
 /*-------------------------------------------Bits and Bobs */
 .caps{
     text-transform: capitalize;
@@ -21,6 +51,15 @@ nav a img{
 
 
 /*-------------------------------------------Reviews */
+
+/*-------------------------------------------Our Team */
+.our-team img{
+    margin-left: 25%;
+    padding: 2px 2px;
+    border-radius: 25%;
+    border: 1px solid #000;
+}
+
 
 
 /*-------------------------------------------Footer */
