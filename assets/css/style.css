@@ -1,0 +1,34 @@
+
+/*-------------------------------------------Bits and Bobs */
+.caps{
+    text-transform: capitalize;
+}
+
+/*-------------------------------------------Header */
+
+h2,h3,h4,h5{
+    text-align: center;
+}
+
+.joinus{
+    text-align: center;
+    
+}
+/*-------------------------------------------NavBar */
+nav a img{
+    background-color: #000;
+}
+
+
+/*-------------------------------------------Reviews */
+
+
+/*-------------------------------------------Footer */
+
+footer{
+    background-color: #000;
+    color: #fafafa;
+    min-height: 100px;
+    margin:  0;
+    padding: 0;
+}
