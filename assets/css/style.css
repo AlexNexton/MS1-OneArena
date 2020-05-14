@@ -17,7 +17,7 @@ body{
 }
 
 .highlight{
-    background: #58b855;
+    background: red;
 }
 
 
@@ -36,6 +36,17 @@ body{
      position: relative;
 }
 /*-------------------------------------------photos, id's, buttons, colors */
+#btn-red{
+    background-color: rgb(209, 10, 10);
+    padding: .5rem 1rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .3rem;
+}
+#btn-red:hover{
+    background-color: red;
+}
+
 .btn-primary{
     background-color:rgba(0,0,128,1);
     border-color: rgba(0,0,128,1);
