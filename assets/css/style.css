@@ -89,10 +89,13 @@ nav a img{
     color: #000;
     width: 100%;
     height: 100%;
+    
 }
 .our-team img{
     margin-left: 25%;
     padding: 2px 2px;
+    width: 50%;
+    height: 60%;
     border-radius: 50%;
     border: 1px solid #000;
 }
