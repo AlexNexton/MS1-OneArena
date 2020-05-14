@@ -28,8 +28,9 @@
 
 </head>
 <body>
-
-		<nav class="navbar navbar-dark navbar-expand-sm sticky-top" style="background-color: #000;">
+        <header class="fixed-top">
+        <div class="container-fluid">
+		<nav class="navbar navbar-dark navbar-expand-sm" style="background-color: #000;">
 			<a href="index.html" class="img-logo">
 				<img src="assets/img/one-arena.png"  alt="OneArena Logo"></a>
 		
@@ -40,6 +41,7 @@
 		
 				<div class="collapse navbar-collapse" id="navbarNavDropdown">
 		            <ul class="navbar-nav mr-auto">
+
 						<li class="active nav-item mr-4"><a class="nav-link hvr-float"  href="index.html"><i class="fas fa-home"></i>
 								  Home</a></li>
 						<li class="nav-item mr-4"><a class="nav-link hvr-float" href="ourteam.html"><i class="fas fa-users"></i>  Our
@@ -50,30 +52,29 @@
                        
                     </ul>
                 </div>
+            </nav>
+            </div>
+            </header>
+     
+ 
+ <!-- JoinUs -->
 
-    <!---------------Social tags for header-->
-                
-            
-		</nav>
-       
-        <div class="container-fluid joinus-container">
-        <!-- JoinUs -->
-        
-        <div class="row">
-        <header class="joinus jumbotron mx-auto mt-5" style="width: 100%;">
-        <h1 class="display-1 caps"> <img src="assets/img/onewhite.png" height="50%" width="50%"  alt="OneArena Logo"></h1>
+    <div class="container-fluid joinus-container">
+         <div class="row">
+        <section class="joinus jumbotron mx-auto mt-5" style="width: 100%;">
+        <h1 class="display-1 caps"> <img src="assets/img/onewhite.png"  alt="OneArena Logo"></h1>
             <p class="lead p-text">Sign up today! <strong><mark class="highlight"> The first class is free!</mark></strong></p>
             <p class="text-muted"><small>You must be <mark>16years</mark> old or over to sign up online.</small></p>
-            <button class="btn btn-success btn-lg">Join Us</button>
-        </header>
+            <button class="btn btn-info btn-lg">Join Us</button>
+        </section>
         </div>
      </div>
-        <!-- /.Joinus -->
+        <!-- /.JoinUs -->
         <hr>
 
         <!-- Reviews -->
 
-		<section class="reviews">
+		<section class="reviews container-fluid">
 		
 			<div class="row">
 				<div class="col-12">
@@ -108,10 +109,7 @@
 						<p>- Peter O'Leary <small><br>2x Irish Olympian</small></p>
                         </div>
 					</div>
-                    
-		
-				
-			</div>
+                </div>
 		</section>
         
         <!-- /.reviews -->
@@ -174,7 +172,7 @@
        <!--------about PART FOOTER------->
         <div class="row">
             <div class="col-sm-4">
-                <h5 class="uppercase gensub">About</h5>
+                <h5 class="uppercase gensub d-none d-sm-block">About</h5>
                 <p class="inline-block"><!--inline-block allows for spacing of content across the footer #css-->
                     
                 </p> 
