@@ -12,7 +12,7 @@ body{
 
 
 /*-------------------------------------------Hero Image */
-.joinus img{
+.joinus img{ /* -- OneArena center image --  */
     height:50%;
     width:50%;
     margin-bottom: 20px;
@@ -44,7 +44,7 @@ body{
 }
 
 
-.joinus-container{
+.joinus-container{ /* -- Man in Red T-shirt Image in the background -- */
     height: 100vh;
     background: url(../img/redshirt.jpg) no-repeat top center fixed; 
     -webkit-background-size: cover;
