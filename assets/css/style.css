@@ -302,6 +302,10 @@ footer h5{
      position: relative;
 }
 
+.letters{
+    margin: 50px 0;
+}
+
 .header-img{
     padding: 0;
     height: 50%;
