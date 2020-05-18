@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Jost&family=Roboto&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Exo:ital@1&family=Roboto&display=swap');
+
 
 body{
     font-family: 'Jost', sans-serif;
@@ -291,7 +291,34 @@ footer h5{
 
 
 /*-------------------------------------------OUR TEAM PAGE : our team edward */
+.teampage{
+    text-align: center;
+    margin: 50px 0 30px 0;
+    height: 50%;
+    width: 100%;
+    color: #000030;
+
+     
+    background: url(../img/onebb.jpg) no-repeat center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+     background-size: cover;
+     
+     display: flex;
+     align-items: center;
+     justify-content: center;
+
+     position: relative;
+}
+
+.header-img{
+    padding: 0;
+    height: 50%;
+}
+
 .our-team-container{ 
+    
    
     background: url(../img/onebb.jpg) no-repeat center fixed; 
     -webkit-background-size: cover;
@@ -306,10 +333,12 @@ footer h5{
      position: relative;
 }
 
+     
+
 .profiles{
     width: 100%;
     height:100%;
-    overflow: hidden;
+    
     
 }
 
@@ -331,21 +360,28 @@ footer h5{
     margin: 0;
     padding: 0;
 }
-.profile-description h1{
+.profile-description h1 , .profile-description h2{
    margin-top: 100px;
-    text-align: left;
+    text-align: center;
      margin: 0;
     padding: 0 20px;
+    color: #edf6ff;
+    font-weight: 700;
 
 }
 .profile-description p{
+    margin-top: 40px;
+    text-align: center;
     padding: 0 20px;
     font-size: 25px;
-    font-family: 'Exo' sans-serif;
+    font-family: 'Roboto' sans-serif;
+    font-style: italic;
+    font-weight: 200;
+    color: #fafafa;
 }
 
 .profile-description{
-    background: rgba(0,123,255,0.2);
+    background: rgba(0,123,255,0.3);
 }
 
 
