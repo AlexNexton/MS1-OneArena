@@ -293,19 +293,9 @@ footer h5{
 /*-------------------------------------------OUR TEAM PAGE : our team edward */
 .teampage{
     text-align: center;
-    margin: 50px 0 30px 0;
-    height: 50%;
-    width: 100%;
+    margin: 50px 0 30px 10px;
     color: #000030;
-
-     
-    background: url(../img/onebb.jpg) no-repeat center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-     background-size: cover;
-     
-     display: flex;
+     display: inline;
      align-items: center;
      justify-content: center;
 
