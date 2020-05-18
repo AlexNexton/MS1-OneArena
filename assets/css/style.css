@@ -389,9 +389,32 @@ footer h5{
 }
 
 #about-oa{
-    margin-left: 40%;
+    margin-left: 35%;
+    
 }
+.oa-margin{
+    margin-bottom: 50px;
+}
+.one-arena-info{
+    line-height: 2.5;
+}
+/*---------------------------------------------sign up bottom */
 
+.signup-container{ /* -- women running tredmill -- */
+    height: 100vh;
+    background: url(../img/womenrun.jpg) no-repeat top center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+     background-size: cover;
+     
+     display: flex;
+     align-items: center;
+     justify-content: center;
+
+     position: relative;
+     
+}
 
 @media (max-width: 600px) {
   .joinus{
