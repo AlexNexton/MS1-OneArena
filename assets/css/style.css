@@ -280,6 +280,15 @@ footer h5{
 .contact-info{
     text-align: center;
 }
+/*-------------------------------------------OUR TEAM PAGE : our team edward */
+.ed-profile{
+    margin: 0 ;
+    padding: 0;
+}
+.ed-profile img{
+   width: 80%;
+    height: 100%;
+}
 
 
 @media (max-width: 600px) {
