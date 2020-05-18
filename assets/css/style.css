@@ -212,6 +212,7 @@ nav a img{
 /*-------------------------------------------Footer */
 
 footer{
+    font-family: 'Roboto' sans-serif;
     background-color: #000030;
     color: #fafafa;
     min-height: 100px;
@@ -255,6 +256,10 @@ footer h5{
 
 .social-links li a i:hover{
     background-color: rgb(209, 10, 10);
+}
+
+.contact-info{
+    text-align: center;
 }
 
 
