@@ -2,28 +2,35 @@
 
 body{
     font-family: 'Jost', sans-serif;
+    
 
 }
 
 .container-fluid{
     padding: 0;
+     overflow: hidden;
     
 }
 
 
 /*-------------------------------------------Hero Image and JOINUS SECTION*/
 .joinus img{ /* -- OneArena center image --  */
-    height:50%;
-    width:50%;
+    height:60%;
+    width:60%;
     margin-bottom: 20px;
+     overflow: hidden;
 }
 
 .joinus{
-   
+
     background: rgb(255, 255, 255, .3);
     color: #fafafa;
     font-weight: 700;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
 }
+
 
 .joinus p small{
     color: #fafafa;
@@ -154,6 +161,10 @@ nav a img{
     margin-bottom: 100%px;
 }
 
+.reviews h2{
+    margin-bottom: 50px;
+}
+
 .review{
     margin-left: 20px;
 }
@@ -184,6 +195,10 @@ nav a img{
     width: 100%;
     height: 100%;
     
+}
+
+.our-team h2{
+    margin-bottom: 50px;
 }
 .our-team img{
     margin-left: 25%;
@@ -270,7 +285,7 @@ footer h5{
 @media (max-width: 600px) {
   .joinus{
      background: rgb(255, 255, 255, .3);
-    color: #fafafa;
+    color: #000;
     font-weight: 700;
     
 }
@@ -288,6 +303,8 @@ footer h5{
     #navey-blue{
         background: rgba(0,0,128,1);
         font-size: 130%;
+        color: #fafafa;
+        font-weight: 500;
     }
     .btn-info{
     background-color: rgb(209, 10, 10);
@@ -299,13 +316,9 @@ footer h5{
 
     .lead{
         font-size: 1rem;
-        
+  
     }
 
-   .navbar{
-       height: 100%;
-       widows: 100%;
-   }
 
 
 }
