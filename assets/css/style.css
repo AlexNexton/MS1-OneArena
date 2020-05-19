@@ -254,9 +254,7 @@ footer h5{
     
 }
 
-
-
-.social-links li a{
+ .social-links li a{
     padding: 0 5px; /* spacing the social links */
     
 }
@@ -286,6 +284,20 @@ footer h5{
     text-align: center;
 }
 
+.sub-footer{
+    background: #000011;
+    margin: 0 auto;
+
+    padding: 20px 0 20px 40px;
+}
+
+#sub-footer-cian{
+    padding-left: 15%;
+}
+
+#sub-footer-middle{
+    padding-left: 5%;
+}
 
 
 
