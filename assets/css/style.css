@@ -366,15 +366,25 @@ footer h5{
     margin: 0;
     padding: 0;
 }
-.profile-description h1 , .profile-description h2{
+.profile-description h1{
    margin-top: 100px;
     text-align: center;
      margin: 0;
     padding: 0 20px;
-    color: #edf6ff;
+    color: #b90404;
     font-weight: 700;
 
 }
+
+.profile-description h2{
+     margin-top: 100px;
+    text-align: center;
+     margin: 0;
+    padding: 0 20px;
+    color: #10056b;
+    font-weight: 700;
+}
+
 .profile-description p{
     margin-top: 40px;
     text-align: left;
@@ -383,7 +393,7 @@ footer h5{
     font-family: 'Roboto' sans-serif;
     font-style: italic;
     font-weight: 200;
-    color: #fafafa;
+    color: #05041a;
 }
 
 .profile-description{
