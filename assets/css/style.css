@@ -67,6 +67,68 @@ body{
      position: relative;
      
 }
+/*-------------------------------------------SIGN UP FORM ON JOIN US PAGE */
+
+.form-signup-container{ /* -- Edward black and white image -- */
+    height: 100vh;
+    background: url(../img/signup1.jpg) no-repeat top center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+     background-size: cover;
+     
+     display: flex;
+     align-items: center;
+     justify-content: center;
+
+     position: relative;
+     
+}
+
+.signup{
+
+    background: rgba(0,0,128,0.5);
+    color: #fafafa;
+     height: 100%;
+    width: 100%;
+    overflow: hidden;
+    
+}
+
+.form-section{
+padding: 50px 100px;
+}
+
+.join-button{
+    margin-left: 30%;
+ margin-top:20px;
+  background-color: rgb(209, 10, 10);
+    padding: .5rem 1rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .3rem;
+    display: block;
+  
+}
+.join-button:hover{
+  background-color: red;
+  color:#fafafa;
+}
+.text-input{
+font-family: 'Roboto', sans-serif;
+  background-color: transparent;
+  color:#fafafa;
+  width:100%;
+  height:25px;
+  margin: 5px 0px 20px 0px;
+  border: 1px solid #fafafa;
+  border-radius: 2px;
+  
+}
+.text-input:hover{
+  border-color:#fafafa;
+}
+
 /*-------------------------------------------photos, id's, buttons, colors */
 #btn-red{
     background-color: rgb(209, 10, 10);
@@ -76,7 +138,7 @@ body{
     border-radius: .3rem;
 }
 #btn-red:hover{
-    background-color: red;
+    background-color:#fafafa;
 }
 
 
