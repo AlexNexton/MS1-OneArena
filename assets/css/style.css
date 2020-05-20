@@ -133,6 +133,15 @@ h2,h3,h4,h5{
     text-align: center;
     
 }
+
+.hr-class{
+    margin: 3rem;
+
+    border-top: 2px solid #000030;
+}
+.hr-top-bottom{
+    border-top: 2px solid #000030;
+}
 /*-------------------------------------------NavBar */
 
 nav a img{
