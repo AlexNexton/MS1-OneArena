@@ -118,6 +118,16 @@ body{
    background: radial-gradient(ellipse at center,rgba(255, 250, 250, 0.35) 0,rgba(0,0,0,0) 80%);
 }
 
+#photo{
+    clear:both;
+  line-height: 0;
+  column-count: 3;
+  column-gap: 0px;
+}
+#photo img{
+    width: 100%;
+}
+
 
 /*-------------------------------------------Header */
 
@@ -415,7 +425,7 @@ footer h5{
 }
 
 .about-oa{
-    margin-left: 35%;
+    margin-left: 40%;
     
 }
 .oa-margin{
