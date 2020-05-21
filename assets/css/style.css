@@ -131,6 +131,39 @@ font-family: 'Roboto', sans-serif;
   border-color:#fafafa;
 }
 
+/* --------------------------------------------------------Location on Joinus.html page */
+
+.onearena-map{
+   margin:0 50px;
+    padding-left: 10px;
+    height: 100%;
+    width: 100%;
+    
+    
+    
+}
+
+    
+.map-info-size{
+    margin: 0 auto;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.map-info-size h5 {
+    font-size: 45px;
+    color: #000030;
+
+}
+.map-info-size p{
+    color: #000030;
+}
+
+
+
+
+
 /*-------------------------------------------photos, id's, buttons, colors */
 #btn-red{
     background-color: rgb(209, 10, 10);
