@@ -539,7 +539,7 @@ footer h5{
 
 .signup-container{ /* -- women running tredmill -- */
     height: 100vh;
-    background: url(../img/womenrun.jpg) no-repeat top center fixed; 
+    background: url(../img/womenrun.jpg) no-repeat bottom right fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -551,6 +551,45 @@ footer h5{
 
      position: relative;
      
+}
+/*------------------------------------------------------Table*/
+.tables-container{
+     
+    background: url(../img/table.jpg) no-repeat top center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+     background-size: cover;
+     
+     display: flex;
+     align-items: center;
+     justify-content: center;
+
+     position: relative;
+}
+
+.table{
+    border: 2px solid #131392;
+    color: #fafafa;
+}
+
+.table-frame td{
+     border: 2px solid #131392;
+     color: #fafafa;
+}
+
+.table-frame tr{
+     border: 2px solid#131392;
+     color: #fafafa;
+}
+.table-frame th{
+     border: 2px solid #131392;
+     color: #fafafa;
+     
+}
+.table thead th{
+     border: 2px solid #131392;
+     color: #fafafa;
 }
 
 @media (max-width: 600px) {
