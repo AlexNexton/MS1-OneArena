@@ -26,7 +26,7 @@ code the owner chose to best create a place online unique to One Arena.
 
 _This is for educational purposes only._
 
-## 1. UX 
+## UX 
 
 ### * Who is this website for? 
 
@@ -58,7 +58,7 @@ The website provides:
 
 NOTE ADDED
 
-## 2. Features
+## Features
 
 ### Exsisting Features
 
@@ -69,7 +69,7 @@ NOTE ADDED
 - **Our Team page:** gives the users a more thorough look at each personal trainer and their background, also mentions why One Arena came into fruition
 - **Facilites page:** provides the user with the a time table for each of the classes and a Gallery so the user can have a window into what it's like at One Arena 
 
-## 3. Technologies Used 
+## Technologies Used 
 
 ### * Languages 
 
@@ -107,11 +107,11 @@ NOTE ADDED
     - I used **Text Color Fader** to more quickly create the various colouring I needed for each letter
 
 
-## 4. Testing 
+## Testing 
 
 
 
-## 5. Deployment 
+## Deployment 
 
 I created my project on **GitHub** and used **GitPod's** development environment to write my code.
 
@@ -128,7 +128,7 @@ To make my project viewable to others, I deployed my project to **GitHub Pages**
 
  For more information, this process can be found by clicking the following link:<a href="https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site"> Configuring a publishing source for your GitHub Pages site </a>
 
-## 6. Credits 
+## Credits 
 
  ### Content 
 
