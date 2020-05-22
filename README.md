@@ -1,39 +1,162 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+<p id="top"></p>
 
-Welcome AlexNexton,
+![One Arena logo([Imgur](https://i.imgur.com/0qjc1sJ.png)
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+---
 
-## Gitpod Reminders
+## Index
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+* Project Definition 
+* UX 
+* Features 
+* Technologies Used 
+* Testing 
+* Deployment 
+* Credits
 
-`python3 -m http.server`
+---
 
-A blue button should appear to click: *Make Public*,
+# One Arena Gym
 
-Another blue button should appear to click: *Open Browser*.
+This project is based on an actual Gym called One Arena. The goal in building the website is to attract new members and to showcase the gym's 
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+facilites by way of photos and introducing the personal trainers. In keeping with the logo, the style and tone of the site is based around the colour
 
-A blue button should appear to click: *Make Public*,
+code the owner chose to best create a place online unique to One Arena.
 
-Another blue button should appear to click: *Open Browser*.
+_This is for educational purposes only._
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+## 1. UX 
 
-## Updates Since The Instructional Video
+### * Who is this website for? 
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
+This website is for new memebers who are looking for a local gym but one that has a professional feel to it and a 'straight to the point' attitude.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+### * User Stories 
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+People who are looking to join a gym but are unsure of which gym might be best.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+They might like to:
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+- *Be introduced to the personal trainers*
+- *See some of the memebers in action (photos etc)*
+- *Hear some of the feedback from previous or exsisting memebers*
+- *See if the Gym is also present on social media sites (facebook, instagram, etc)*
+- *Check out the timetable and pick a time that best suits them*
+- *Join the Gym via the 'join us' and 'sign up' buttons*
 
---------
+The website provides:
 
-Happy coding!
+- A link to all social media platforms One Arena has
+- A contact email address where potenial memebers can open a more formal dialogue
+- A Gallery of photos to have a more indepth look into the gym and it's memebers
+- A google maps map to facilitate users in easily finding the gym
+
+
+
+### Website Wireframes
+
+NOTE ADDED
+
+## 2. Features
+
+### Exsisting Features
+
+- **Navigation bar:** allows access the most relevant pages and content on the website - with a very straight forward approach.
+- **Home page:**  looks for the user to join upon seeing the page - has memebers comments and an introduction the the team at One Arena
+- **Footer:**   provides the user with contact information - location and email address. The Gym's social media platforms are also present at the click of a button.
+- **Sign Up page:** The overall goal of the site, to get new memebers and have them sign up with ease on the site.
+- **Our Team page:** gives the users a more thorough look at each personal trainer and their background, also mentions why One Arena came into fruition
+- **Facilites page:** provides the user with the a time table for each of the classes and a Gallery so the user can have a window into what it's like at One Arena 
+
+## 3. Technologies Used 
+
+### * Languages 
+
+- <a href="https://en.wikipedia.org/wiki/HTML5"  target="_blank">**HTML/HTML5**</a>
+  - **HTML/HTML5** the language used to create the form and add content to the website.
+
+
+- <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets"  target="_blank">**CSS/CSS3**</a>
+  - **CSS/CSS3** to provide the styles for the website.
+
+
+- <a href="https://getbootstrap.com/" target="_blank">**BootStrap 4**</a>
+  - I decided to use **Bootstrap's grid** container system as I wanted to design my project with a 'mobile first' approach.
+
+
+- <a href="https://www.gitpod.io/"  target="_blank">**Gitpod**</a>
+  - The project used the **Gitpod** IDE to develop the website.
+
+
+- <a href="https://github.com/" target="_blank">**GitHub**</a>
+  - **GitHub** was used as a hosting service to save the project in a repository.
+
+- <a href="https://imgur.com/" target="_blank">**Imgur**</a>
+  -**Imgur** service to host and access images online.
+  
+  - <a href="https://validator.w3.org/" target="_blank">**W3C validator**</a>
+    -**W3C validator** was a great tool throughout the project to test my HTML and CSS code.
+
+### * Other Tools 
+
+- <a href="https://fontawesome.com/" rel="noopener" target="_blank">**Font Awesome**</a>
+  - I used **Font Awesome** to add vector icons to the project.
+
+  - <a href="http://patorjk.com/text-color-fader/" target="_blank">**Text Colour Fader**</a>
+    - I used **Text Color Fader** to more quickly create the various colouring I needed for each letter
+
+
+## 4. Testing 
+
+
+
+## 5. Deployment 
+
+I created my project on **GitHub** and used **GitPod's** development environment to write my code.
+
+To make my project viewable to others, I deployed my project to **GitHub Pages** with the following process:
+
+    1. I first created the repository inside of my GitHub account using the template given to us by Code Institute.
+    2. From there, I launched the project on Gitpod from the repository named *MS1-OneArena*, using Gitpod's Chrome extension.
+    3. I pushed all relevant and significant changes to the repository(*MS1-OneArena*), from Gitpod regularly as I worked on it day to day.
+    4. Once the project was complete, I opened the 'Settings' section of my project repository in GitHub.
+    5. From there, I scrolled to the 'GitHub Pages' section of the 'Settings' page.
+    6. Here I selected 'master branch' as my Source.
+    7. This deployed my project on GitHub Pages and allowed me to share the live website with others.
+
+
+ For more information, this process can be found by clicking the following link:<a href="https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site"> Configuring a publishing source for your GitHub Pages site </a>
+
+## 6. Credits 
+
+ ### Content 
+
+ This project was entirely written by myself Cian O'Connor but also with the aid of:
+
+ * Code Institute's video's - epecially the mini Whiskey and Love Running projects.
+
+ * Youtube - with regards to adding the Carousel and Google maps
+
+ * W3schools - which helped me with small increments throughout the project
+
+ ### Media
+
+ Almost all of the images were supplied by OneArena themseleves, appart form a select few.
+
+ Below are the references of those images:
+
+ * Home page:
+    - <a href="https://time.com/5795492/gym-fitness-studio-coronavirus/"> Background hero Image</a>
+
+ * Facilites page:
+     - <a href="https://classic105.com/here-are-reasons-why-kenyans-still-find-it-hard-to-hit-the-gym/">Classes timetable image</a>
+
+ * OurTeam and Facilites page:
+    - <a href="https://dnyuz.com/2019/09/01/labor-day-2019-which-gyms-are-open-planet-fitness-la-fitness-golds-gym-anytime-fitness-opening-hours/">Background image Sign up</a>
+
+ * Sign up page: 
+  - <a href="https://www.southernstar.ie/life/dont-fear-the-gym-4199480">Background image Sign Up</a>
+
+
+<a href="#top">Back to top</a>
