@@ -603,6 +603,18 @@ display: none;
     display: none;
 }
 
+.fa-twitter-square{ /* Hide twiiter on a very small screen */
+ display: none;
+}
+.fa-twitter-square:before{
+ display: none;
+}
+ 
+ label {
+     display: table-cell;
+     
+ }
+
 }
 
 @media (max-width: 600px) {
