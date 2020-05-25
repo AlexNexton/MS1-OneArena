@@ -1,6 +1,6 @@
 <p id="top"></p>
 
-![One Arena logo([Imgur](https://i.imgur.com/0qjc1sJ.png)
+![OneArena](assets/img/responsive.png)
 
 ---
 
