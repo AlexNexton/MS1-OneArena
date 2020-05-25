@@ -28,11 +28,12 @@ _This is for educational purposes only._
 
 ## UX 
 
-### * Who is this website for? 
+### Who is this website for? 
 
-This website is for new memebers who are looking for a local gym but one that has a professional feel to it and a 'straight to the point' attitude.
+This website is primarily for new memebers who are looking for a local gym but one that has a professional feel to it and a 'straight to the point' attitude.
 
-### * User Stories 
+It also caters to current memebers.
+### User Stories 
 
 People who are looking to join a gym but are unsure of which gym might be best.
 
@@ -43,15 +44,15 @@ They might like to:
 - *Hear some of the feedback from previous or exsisting memebers*
 - *See if the Gym is also present on social media sites (facebook, instagram, etc)*
 - *Check out the timetable and pick a time that best suits them*
-- *Join the Gym via the 'join us' and 'sign up' buttons*
+- *Join the Gym via the 'join now' and 'sign up' buttons*
 
 The website provides:
 
-- A link to all social media platforms One Arena has
-- A contact email address where potenial memebers can open a more formal dialogue
-- A Gallery of photos to have a more indepth look into the gym and it's memebers
-- A google maps map to facilitate users in easily finding the gym
-
+- A link to all social media platforms One Arena has.
+- A contact email address where potenial memebers can open a more formal dialogue.
+- A Gallery of photos to have a more indepth look into the gym and it's memebers.
+- A google maps map to facilitate users in easily finding the gym.
+- A timetable of all available classes.
 
 
 ## Website Wireframes
@@ -113,11 +114,11 @@ The website provides:
 - <a href="https://fontawesome.com/" rel="noopener" target="_blank">**Font Awesome**</a>
   - I used **Font Awesome** to add vector icons to the project.
 
-  - <a href="http://patorjk.com/text-color-fader/" target="_blank">**Text Colour Fader**</a>
-    - I used **Text Color Fader** to more quickly create the various colouring I needed for each letter
+- <a href="http://patorjk.com/text-color-fader/" target="_blank">**Text Colour Fader**</a>
+   - I used **Text Color Fader** to more quickly create the various colouring I needed for each letter
 
-   - <a href="https://www.microsoft.com/en-us/p/paint-3d/9nblggh5fv99?activetab=pivot:overviewtab" target="_blank"> **Paint 3D**</a>
-    - I used **Paint 3D** for the changing of letter colours in photos to compliment the theme of the page.
+ - <a href="https://www.microsoft.com/en-us/p/paint-3d/9nblggh5fv99?activetab=pivot:overviewtab" target="_blank"> **Paint 3D**</a>
+   - I used **Paint 3D** for the changing of letter colours in photos to compliment the theme of the page.
 
 
 
