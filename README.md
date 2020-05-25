@@ -54,12 +54,19 @@ The website provides:
 
 
 
-### Website Wireframes
+## Website Wireframes
 
-## Home page
+### Website pages
     
-    [wireframes](assets/wireframes/Home.png)
+   
+ * [Home](assets/wireframes/Home.png)
 
+ * [OurTeam](assets/wireframes/OurTeam.png)
+
+ * [Facilites](assets/wireframes/Facilities.png)
+
+ * [Sign Up](assets/wireframes/SignUp.png)
+ 
 
 ## Features
 
