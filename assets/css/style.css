@@ -596,7 +596,7 @@ footer h5{
      color: #fafafa;
 }
 
-@media (max-width:350px){
+@media (max-width:380px){
 
 .fa-user-plus{
 
@@ -618,6 +618,10 @@ display: none;
      display: table-cell;
      
  }
+
+ .expert-display{
+        font-size: 1.3rem;
+    }
 
 }
 
@@ -656,6 +660,10 @@ display: none;
     .lead{
         font-size: 1rem;
   
+    }
+
+    .expert-display{
+        font-size: 1.3rem;
     }
 
 
