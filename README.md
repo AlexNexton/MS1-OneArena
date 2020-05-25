@@ -22,7 +22,7 @@ This project is based on an actual Gym called One Arena. The goal in building th
 facilites by way of photos, timetables and introducing the user to each of One Arena's Personal Trainers. 
 
 In keeping with the logo, the style and tone of the website is based around the colour
-code the owner chose himself and I used those colours to best create an online space unique yet familiar to One Arena and it's memebers.
+code the owner chose himself, and I used those colours to best create an online space unique yet familiar to One Arena and it's memebers.
 
 _This is for educational purposes only._
 
