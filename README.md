@@ -19,10 +19,10 @@
 # One Arena Gym
 
 This project is based on an actual Gym called One Arena. The goal in building the website is to attract new members and to showcase the gym's 
+facilites by way of photos, timetables and introducing the user to each of One Arena's Personal Trainers. 
 
-facilites by way of photos and introducing the personal trainers. In keeping with the logo, the style and tone of the site is based around the colour
-
-code the owner chose to best create a place online unique to One Arena.
+In keeping with the logo, the style and tone of the website is based around the colour
+code the owner chose himself and I used those colours to best create an online space unique yet familiar to One Arena and it's memebers.
 
 _This is for educational purposes only._
 
