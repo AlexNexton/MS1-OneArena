@@ -45,7 +45,7 @@ body{
 }
 
 .mark ,mark{
-    background-color: yellow;
+    background-color: rgb(255, 94, 0);
 }
 .p-text mark{
     color: #fafafa;
