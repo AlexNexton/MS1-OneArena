@@ -109,10 +109,10 @@ The website provides:
   - **GitHub** was used as a hosting service to save the project in a repository.
 
 - <a href="https://imgur.com/" target="_blank">**Imgur**</a>
-  -**Imgur** service to host and access images online.
-  
-  - <a href="https://validator.w3.org/" target="_blank">**W3C validator**</a>
-    -**W3C validator** was a great tool throughout the project to test my HTML and CSS code.
+  - **Imgur** service to host and access images online.
+
+- <a href="https://validator.w3.org/" target="_blank">**W3C validator**</a>
+   - **W3C validator** was a great tool throughout the project to test my HTML and CSS code.
 
 ###  Other Tools 
 
