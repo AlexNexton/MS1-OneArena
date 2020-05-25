@@ -129,7 +129,43 @@ The website provides:
 
 ## Testing 
 
+### Testing User Stories
 
+1. Be introduced to the personal trainers.
+    
+    1. Go to Home page.
+    2. Scroll down until you see the peronal trainers.
+    3. Click 'Read More' below the trainer you want to know more about.
+
+2. See some of the memebers in action (photos etc)
+
+    1. Go to Home page.
+    2. Looking at the Nav-bar, click the 'Facilites' page.
+    3. Scroll down to the 'Gallery' section.
+
+3. Hear some of the feedback from previous or exsisting memebers.
+
+    1. Go to Home page.
+    2. Scroll down.
+    3. Stop at 'What Our Members Say' section.
+
+4.  See if the Gym is also present on social media sites (facebook, instagram, etc)
+
+    1. Start from any page.
+    2. Scroll down to the very end.
+    3. Under the 'Social' section, click on the social media icon you would like to visit.
+    
+5. Check out the timetable and pick a time that best suits them.
+
+    1. Go to Home page.
+    2. Looking at the Nav-bar, click the 'Facilites' page.
+    3. Scroll down until you see 'Classes' section and choose a time.
+
+ 6. Join the Gym via the 'join now' and 'sign up' buttons.
+
+    1.  Start from any page.
+    2. Looking at the Nav-bar, click on the red 'join now button'
+    3. Enter your details and click 'Sign Up' button. 
 
 ## Deployment 
 
