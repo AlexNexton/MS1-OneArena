@@ -592,6 +592,16 @@ footer h5{
      color: #fafafa;
 }
 
+@media (max-width:159px){
+
+.fa-user-plus{
+
+font-size: 2rem;
+
+}
+
+}
+
 @media (max-width: 600px) {
   .joinus{
      background: rgb(255, 255, 255, .3);
