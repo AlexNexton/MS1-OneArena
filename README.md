@@ -56,7 +56,10 @@ The website provides:
 
 ### Website Wireframes
 
-NOTE ADDED
+## Home page
+    
+    [wireframes](assets/wireframes/Home.png)
+
 
 ## Features
 
