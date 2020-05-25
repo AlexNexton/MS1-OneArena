@@ -39,20 +39,20 @@ People who are looking to join a gym but are unsure of which gym might be best.
 
 They might like to:
 
-- *Be introduced to the personal trainers*
+- *Be introduced to the personal trainers.*
 - *See some of the memebers in action (photos etc)*
-- *Hear some of the feedback from previous or exsisting memebers*
+- *Hear some of the feedback from previous or exsisting memebers.*
 - *See if the Gym is also present on social media sites (facebook, instagram, etc)*
-- *Check out the timetable and pick a time that best suits them*
-- *Join the Gym via the 'join now' and 'sign up' buttons*
+- *Check out the timetable and pick a time that best suits them.*
+- *Join the Gym via the 'join now' and 'sign up' buttons.*
 
 The website provides:
 
-- A link to all social media platforms One Arena has.
-- A contact email address where potenial memebers can open a more formal dialogue.
-- A Gallery of photos to have a more indepth look into the gym and it's memebers.
-- A google maps map to facilitate users in easily finding the gym.
-- A timetable of all available classes.
+- *A link to all social media platforms One Arena has.*
+- *A contact email address where potenial memebers can open a more formal dialogue.*
+- *A Gallery of photos to have a more indepth look into the gym and it's memebers.*
+- *A google maps map to facilitate users in easily finding the gym.*
+- *A timetable of all available classes.*
 
 
 ## Website Wireframes
@@ -74,15 +74,20 @@ The website provides:
 ### Exsisting Features
 
 - **Navigation bar:** allows access the most relevant pages and content on the website - with a very straight forward approach.
-- **Home page:**  looks for the user to join upon seeing the page - has memebers comments and an introduction the the team at One Arena
+
+- **Home page:**  looks for the user to join upon seeing the page - has memeber comments and an introduction the team at One Arena.
+
 - **Footer:**   provides the user with contact information - location and email address. The Gym's social media platforms are also present at the click of a button.
-- **Sign Up page:** The overall goal of the site, to get new memebers and have them sign up with ease on the site.
-- **Our Team page:** gives the users a more thorough look at each personal trainer and their background, also mentions why One Arena came into fruition
-- **Facilites page:** provides the user with the a time table for each of the classes and a Gallery so the user can have a window into what it's like at One Arena 
+
+- **Sign Up page:** this is thee overall goal of the website, to get new memebers and have them sign up with ease on the site.
+
+- **Our Team page:** gives the users a more thorough look at each personal trainer and their background. It also mentions why One Arena came into fruition.
+
+- **Facilites page:** provides the user with the a time table for each of the classes and a Gallery so the user can have a window into what it's like at One Arena.
 
 ## Technologies Used 
 
-### * Languages 
+###  Languages 
 
 - <a href="https://en.wikipedia.org/wiki/HTML5"  target="_blank">**HTML/HTML5**</a>
   - **HTML/HTML5** the language used to create the form and add content to the website.
@@ -109,7 +114,7 @@ The website provides:
   - <a href="https://validator.w3.org/" target="_blank">**W3C validator**</a>
     -**W3C validator** was a great tool throughout the project to test my HTML and CSS code.
 
-### * Other Tools 
+###  Other Tools 
 
 - <a href="https://fontawesome.com/" rel="noopener" target="_blank">**Font Awesome**</a>
   - I used **Font Awesome** to add vector icons to the project.
