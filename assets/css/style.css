@@ -592,12 +592,15 @@ footer h5{
      color: #fafafa;
 }
 
-@media (max-width:159px){
+@media (max-width:350px){
 
 .fa-user-plus{
 
-font-size: 2rem;
+display: none;
 
+}
+.fa-user-plus:before{
+    display: none;
 }
 
 }
