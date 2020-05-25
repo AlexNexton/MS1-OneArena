@@ -43,6 +43,10 @@ body{
     font-weight: 700;
     
 }
+
+.mark ,mark{
+    background-color: yellow;
+}
 .p-text mark{
     color: #fafafa;
     font-weight: 500;
