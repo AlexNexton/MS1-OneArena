@@ -106,6 +106,10 @@ NOTE ADDED
   - <a href="http://patorjk.com/text-color-fader/" target="_blank">**Text Colour Fader**</a>
     - I used **Text Color Fader** to more quickly create the various colouring I needed for each letter
 
+   - <a href="https://www.microsoft.com/en-us/p/paint-3d/9nblggh5fv99?activetab=pivot:overviewtab" target="_blank"> **Paint 3D**</a>
+    - I used **Paint 3D** for the changing of letter colours in photos to compliment the theme of the page.
+
+
 
 ## Testing 
 
