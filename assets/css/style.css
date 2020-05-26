@@ -465,10 +465,14 @@ footer h5{
     height: 50%;
 }
 
+.about-onearena-bg{
+     background-image: linear-gradient(rgba(1, 1, 41, 0.96),rgba(0,0,0,0));
+}
+
 .our-team-container{ 
     
    
-     background-image: linear-gradient(rgba(0,0,26,.96),rgba(0,0,0,0));
+     background-image: linear-gradient(rgba(1, 1, 41, 0.96),rgba(0,0,0,0));
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -578,7 +582,7 @@ footer h5{
 /*------------------------------------------------------Table*/
 .tables-container{
      
-    background: url(../img/table.jpg) no-repeat top center fixed; 
+    background-image: linear-gradient(rgba(0,0,26,.96),rgba(53, 1, 1, 0.96));
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
