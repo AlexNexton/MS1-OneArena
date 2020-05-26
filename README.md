@@ -4,7 +4,7 @@
 
 ---
 
-## Index
+# Index
 
 * Project Definition 
 * UX 
@@ -64,7 +64,7 @@ The website provides:
 
  * [OurTeam](assets/wireframes/OurTeam.png)
 
- * [Facilites](assets/wireframes/Facilities.png)
+ * [Facilities](assets/wireframes/Facilities.png)
 
  * [Sign Up](assets/wireframes/SignUp.png)
  
@@ -190,7 +190,7 @@ To make my project viewable to others, I deployed my project to **GitHub Pages**
 
  This project was entirely written by myself Cian O'Connor but also with the aid of:
 
- * Code Institute's video's - epecially the mini Whiskey and Love Running projects.
+ * Code Institute's videos - epecially the mini Whiskey and Love Running projects.
 
  * Youtube - with regards to adding the Carousel and Google maps
 
@@ -212,7 +212,7 @@ To make my project viewable to others, I deployed my project to **GitHub Pages**
     - <a href="https://dnyuz.com/2019/09/01/labor-day-2019-which-gyms-are-open-planet-fitness-la-fitness-golds-gym-anytime-fitness-opening-hours/">Background image Sign up</a>
 
  * Sign up page: 
-  - <a href="https://www.southernstar.ie/life/dont-fear-the-gym-4199480">Background image Sign Up</a>
+    - <a href="https://www.southernstar.ie/life/dont-fear-the-gym-4199480">Background image Sign Up</a>
 
 
 <a href="#top">Back to top</a>
