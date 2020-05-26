@@ -59,6 +59,10 @@ The website provides:
 
 ### Website pages
     
+* All **Wireframes** were originally drawn on paper when I was first designing the 
+    website. I wanted to get my ideas into fruition as fast as
+    possible and wasn't competent with the sofware.
+     The Wireframes below are a copy of those images using [Balsamiq](https://balsamiq.com/).
    
  * [Home](assets/wireframes/Home.png)
 
