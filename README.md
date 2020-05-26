@@ -167,6 +167,21 @@ The website provides:
     2. Looking at the Nav-bar, click on the red 'join now button'
     3. Enter your details and click 'Sign Up' button. 
 
+### Testint HTML, CSS and the site
+
+* I used https://validator.w3.org/ to test each page and the CSS.
+
+* I used the 'Audit' option in Google Dev tools to make sure the site was running efficiently.
+
+* I sent the live link to friend and family members to see if it was mobile ready
+    and changed any error one of the users or myself found.
+
+* I tested the site on Google Chrome, FireFox and Internet Explorer.
+    Unfortunaly, the site wasn't compatible with Internet Explorer as BootStrap
+    isn't supported on it.
+
+* Finally, I used Google Dev Tools to make sure the site was compatible on all the 
+    devices listed in their library.
 ## Deployment 
 
 I created my project on **GitHub** and used **GitPod's** development environment to write my code.
@@ -196,6 +211,8 @@ To make my project viewable to others, I deployed my project to **GitHub Pages**
 
  * W3schools - which helped me with small increments throughout the project
 
+ * BootStrap - for the layout of the site and it's mobile first approach.
+
  ### Media
 
  Almost all of the images were supplied by OneArena themseleves, appart form a select few.
@@ -205,14 +222,19 @@ To make my project viewable to others, I deployed my project to **GitHub Pages**
  * Home page:
     - <a href="https://time.com/5795492/gym-fitness-studio-coronavirus/"> Background hero Image</a>
 
- * Facilites page:
-     - <a href="https://classic105.com/here-are-reasons-why-kenyans-still-find-it-hard-to-hit-the-gym/">Classes timetable image</a>
-
- * OurTeam and Facilites page:
+* OurTeam and Facilites page:
     - <a href="https://dnyuz.com/2019/09/01/labor-day-2019-which-gyms-are-open-planet-fitness-la-fitness-golds-gym-anytime-fitness-opening-hours/">Background image Sign up</a>
 
- * Sign up page: 
-    - <a href="https://www.southernstar.ie/life/dont-fear-the-gym-4199480">Background image Sign Up</a>
+## Acknowledgements
+
+ * Firstly, I would like to thank OneArena for letting me use their content,
+  especially the owner **Edward Finn** - thank you!
+
+* Secondly, I would like to thank my mentor **Antonija Simic**, who really helped with the styling of 
+    the site and gave me some invaluable tips which I will carry with me throughout my career.
+
+* Finally, I want to thank my family and partner for their support each day, and for taking an interest
+    in my journey as a developer. I am very gratful. Thank you.
 
 
 <a href="#top">Back to top</a>
