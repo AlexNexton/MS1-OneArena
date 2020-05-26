@@ -73,17 +73,19 @@ The website provides:
 
 ### Exsisting Features
 
-- **Navigation bar:** allows access the most relevant pages and content on the website - with a very straight forward approach.
+- **Navigation bar:** allows access to the most relevant pages and content on the website - with a very straight forward approach.
 
 - **Home page:**  looks for the user to join upon seeing the page - has memeber comments and an introduction the team at One Arena.
 
-- **Footer:**   provides the user with contact information - location and email address. The Gym's social media platforms are also present at the click of a button.
+- **Footer:**   provides the user with contact information, location and email address. The Gym's social media platforms are also present at the click of a button.
 
-- **Sign Up page:** this is thee overall goal of the website, to get new memebers and have them sign up with ease on the site.
+- **Sign Up page:** this is the overall goal of the website, to get new memebers and have them sign up with ease on the site.
 
-- **Our Team page:** gives the users a more thorough look at each personal trainer and their background. It also mentions why One Arena came into fruition.
+- **Our Team page:** gives the users a more thorough look at each personal trainer and their background.
 
 - **Facilites page:** provides the user with the a time table for each of the classes and a Gallery so the user can have a window into what it's like at One Arena.
+
+- **About page:** tells the user how One Arena began.
 
 ## Technologies Used 
 
@@ -171,9 +173,9 @@ The website provides:
 
 * I used https://validator.w3.org/ to test each page and the CSS.
 
-* I used the 'Audit' option in Google Dev tools to make sure the site was running efficiently.
+* I used the 'Audit' option in Google Dev Tools to make sure the site was running efficiently.
 
-* I sent the live link to friend and family members to see if it was mobile ready
+* I sent the live link to friends and family members to see if it was mobile ready
     and changed any error one of the users or myself found.
 
 * I tested the site on Google Chrome, FireFox and Internet Explorer.
