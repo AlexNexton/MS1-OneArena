@@ -60,7 +60,8 @@ body{
 
 .joinus-container{ /* -- Man in Red T-shirt Image in the background -- */
     height: 100vh;
-    background: url(../img/redshirt.jpg) no-repeat top center fixed; 
+    
+    background-image: linear-gradient(rgba(0,0,26,.96),rgba(0,0,0,0)), url(../img/redshirt.jpg);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
