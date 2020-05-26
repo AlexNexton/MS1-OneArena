@@ -707,6 +707,13 @@ display: none;
 
 }
 
+@media (max-width: 768px) {
+
+     .navbar-nav{
+    margin-left: 5%;
+}
+}
+
 @media (max-width: 350px){
 
     
