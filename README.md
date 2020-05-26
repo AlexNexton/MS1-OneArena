@@ -62,11 +62,25 @@ The website provides:
    
  * [Home](assets/wireframes/Home.png)
 
- * [OurTeam](assets/wireframes/OurTeam.png)
+    - [Home mobile](assets/wireframes/indexpage.png)
+
+ * [OurTeam](assets/wireframes/OT.png)
+
+    - [OurTeam mobile](assets/wireframes/OurTeam.png)
 
  * [Facilities](assets/wireframes/Facilities.png)
 
+    - [Facilities mobile](assets/wireframes/Fmobile.png)
+
+ *  [About](assets/wireframes/AboutM.png)
+
+    - [About mobile](assets/wireframes/Aboutpage.png)
+
  * [Sign Up](assets/wireframes/SignUp.png)
+
+    - [Sign up mobile](assets/wireframes/Signup.png)
+
+*  [Open button on all mobile](assets/wireframes/allbuttons.png)
  
 
 ## Features
