@@ -1,6 +1,6 @@
 <p id="top"></p>
 
-![OneArena](assets/img/responsive.png)
+![OneArena](assets/img/Res1.png)
 
 ---
 
