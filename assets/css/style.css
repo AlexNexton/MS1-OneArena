@@ -647,10 +647,23 @@ display: none;
     }
 
 }
+@media (max-width: 1409px) {
+
+     .navbar-nav{
+    margin-left: 30%;
+}
+}
+
+@media (max-width: 1109px) {
+
+     .navbar-nav{
+    margin-left: 30%;
+}
+}
 
 @media (max-width: 1024px){
     .navbar-nav{
-    margin-left: 30%;
+    margin-left: 20%;
 }
 
 }
@@ -706,6 +719,7 @@ display: none;
 
 
 }
+
 
 @media (max-width: 768px) {
 
