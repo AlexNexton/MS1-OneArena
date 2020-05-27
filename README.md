@@ -26,6 +26,8 @@ code the owner chose himself, and I used those colours to best create an online 
 
 _This is for educational purposes only._
 
+Link to live site: https://alexnexton.github.io/MS1-OneArena/
+
 ## UX 
 
 ### Who is this website for? 
