@@ -109,29 +109,29 @@ The website provides:
 
 ###  Languages 
 
-- <a href="https://en.wikipedia.org/wiki/HTML5"  target="_blank">**HTML/HTML5**</a>
+- <a href="https://en.wikipedia.org/wiki/HTML5" rel="noopener" target="_blank">**HTML/HTML5**</a>
   - **HTML/HTML5** the language used to create the form and add content to the website.
 
 
-- <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets"  target="_blank">**CSS/CSS3**</a>
+- <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets" rel="noopener" target="_blank">**CSS/CSS3**</a>
   - **CSS/CSS3** to provide the styles for the website.
 
 
-- <a href="https://getbootstrap.com/" target="_blank">**BootStrap 4**</a>
+- <a href="https://getbootstrap.com/" rel="noopener" target="_blank">**BootStrap 4**</a>
   - I decided to use **Bootstrap's grid** container system as I wanted to design my project with a 'mobile first' approach.
 
 
-- <a href="https://www.gitpod.io/"  target="_blank">**Gitpod**</a>
+- <a href="https://www.gitpod.io/" rel="noopener"  target="_blank">**Gitpod**</a>
   - The project used the **Gitpod** IDE to develop the website.
 
 
-- <a href="https://github.com/" target="_blank">**GitHub**</a>
+- <a href="https://github.com/" rel="noopener" target="_blank">**GitHub**</a>
   - **GitHub** was used as a hosting service to save the project in a repository.
 
-- <a href="https://imgur.com/" target="_blank">**Imgur**</a>
+- <a href="https://imgur.com/" rel="noopener" target="_blank">**Imgur**</a>
   - **Imgur** service to host and access images online.
 
-- <a href="https://validator.w3.org/" target="_blank">**W3C validator**</a>
+- <a href="https://validator.w3.org/"rel="noopener" target="_blank">**W3C validator**</a>
    - **W3C validator** was a great tool throughout the project to test my HTML and CSS code.
 
 ###  Other Tools 
@@ -139,10 +139,10 @@ The website provides:
 - <a href="https://fontawesome.com/" rel="noopener" target="_blank">**Font Awesome**</a>
   - I used **Font Awesome** to add vector icons to the project.
 
-- <a href="http://patorjk.com/text-color-fader/" target="_blank">**Text Colour Fader**</a>
+- <a href="http://patorjk.com/text-color-fader/" rel="noopener"  target="_blank">**Text Colour Fader**</a>
    - I used **Text Color Fader** to more quickly create the various colouring I needed for each letter
 
- - <a href="https://www.microsoft.com/en-us/p/paint-3d/9nblggh5fv99?activetab=pivot:overviewtab" target="_blank"> **Paint 3D**</a>
+ - <a href="https://www.microsoft.com/en-us/p/paint-3d/9nblggh5fv99?activetab=pivot:overviewtab" rel="noopener"  target="_blank"> **Paint 3D**</a>
    - I used **Paint 3D** for the changing of letter colours in photos to compliment the theme of the page.
 
 
