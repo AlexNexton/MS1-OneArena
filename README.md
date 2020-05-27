@@ -131,7 +131,7 @@ The website provides:
 - <a href="https://imgur.com/" rel="noopener" target="_blank">**Imgur**</a>
   - **Imgur** service to host and access images online.
 
-- <a href="https://validator.w3.org/"rel="noopener" target="_blank">**W3C validator**</a>
+- <a href="https://validator.w3.org/" rel="noopener" target="_blank"> **W3C validator**</a>
    - **W3C validator** was a great tool throughout the project to test my HTML and CSS code.
 
 ###  Other Tools 
@@ -190,6 +190,8 @@ The website provides:
 ### Testint HTML, CSS and the site
 
 * I used https://validator.w3.org/ to test each page and the CSS.
+
+* I used https://jigsaw.w3.org/css-validator/ to test the CSS too.
 
 * I used the 'Audit' option in Google Dev Tools to make sure the site was running efficiently.
 
