@@ -225,9 +225,11 @@ To make my project viewable to others, I deployed my project to **GitHub Pages**
 
  ### Content 
 
+ #### References:
+
  This project was entirely written by myself Cian O'Connor but also with the aid of:
 
- * Code Institute's videos - epecially the mini Whiskey and Love Running projects.
+ * Code Institute's videos - epecially the **mini Whiskey** and **Love Running** projects.
 
  * Youtube - with regards to adding the Carousel and Google maps
 

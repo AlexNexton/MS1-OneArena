@@ -14,9 +14,7 @@ body{
 }
 
 
-/*-------------------------------------------Hero Image and JOINUS SECTION*/
-
-
+/*---------------------------------------------------------------Hero Image and JOINUS SECTION*/
 .joinus img{ /* -- OneArena center image --  */
     height:70%;
     width:70%;
@@ -76,7 +74,7 @@ body{
      position: relative;
      
 }
-/*-------------------------------------------SIGN UP FORM ON JOIN US PAGE */
+/*----------------------------------------------------------------SIGN UP FORM ON JOIN US PAGE */
 
 .form-signup-container{ /* -- Edward black and white image -- */
     height: 100vh;
@@ -142,7 +140,7 @@ font-family: 'Roboto', sans-serif;
   border-color:#fafafa;
 }
 
-/* --------------------------------------------------------Location on Joinus.html page */
+/* ---------------------------------------------------------------------------------Location on Joinus.html page */
 
 .onearena-map{
    margin:0 50px;
@@ -170,13 +168,21 @@ font-family: 'Roboto', sans-serif;
 .map-info-size p{
     color: #000030;
 }
+/*---------------------------------------------------------------Classes PDF */
+
+.pdf-div{
+    margin-bottom: 50px;
+}
+
+.pdf{
+    color: #000030;
+    margin-left: 50%;
+    font-size: 30px;
+}
 
 
 
-
-
-
-/*-------------------------------------------photos, id's, buttons, colors */
+/*---------------------------------------------------------------photos, id's, buttons, colors */
 
 #btn-red{
     background-color: rgb(209, 10, 10);
@@ -245,7 +251,7 @@ font-family: 'Roboto', sans-serif;
     }
 
 
-/*-------------------------------------------Header */
+/*-------------------------------------------------------------------------------Header */
 
 header{
     margin: 0;
@@ -268,7 +274,7 @@ h2,h3,h4,h5{
 .hr-top-bottom{
     border-top: 2px solid #000030;
 }
-/*-------------------------------------------NavBar */
+/*-----------------------------------------------------------------------NavBar */
 
 .img-logo{
     border: none;
@@ -308,7 +314,7 @@ nav a img{
 
 
 
-/*-------------------------------------------Reviews */
+/*---------------------------------------------------------------------------Reviews */
 
 .reviews{
     margin-bottom: 100px;
@@ -328,7 +334,7 @@ nav a img{
     font-style: italic;
 }
 
-/*-------------------------------------------Our Team */
+/*-----------------------------------------------------------------------------Our Team section index.html page */
 
 .photo-team{
 
@@ -345,7 +351,7 @@ nav a img{
 }
 
 .our-team{
-    color: #000;
+    
     width: 100%;
     height: 100%;
     
@@ -382,7 +388,7 @@ nav a img{
 }
 
 
-/*-------------------------------------------Footer */
+/*----------------------------------------------------------------------------------------------Footer */
 
 footer{
     
@@ -451,7 +457,7 @@ footer h5{
 
 
 
-/*-------------------------------------------OUR TEAM PAGE : our team edward */
+/*--------------------------------------------------------------------------------OUR TEAM PAGE : our team edward */
 .teampage{
     text-align: center;
     margin: 50px 0 30px 10px;
@@ -502,7 +508,7 @@ footer h5{
 }
 
 
-.ed-profile{
+.ed-profile{ /* class used for each Personl Trainer */
     width: 100%;
     height: 100%;
     margin: 0 ;
@@ -568,7 +574,7 @@ footer h5{
     line-height: 2.5;
     margin: 0 10%;
 }
-/*---------------------------------------------sign up bottom */
+/*---------------------------------------------------------------------------------sign up bottom */
 
 .signup-container{ /* -- women running tredmill -- */
     height: 100vh;
@@ -586,7 +592,7 @@ footer h5{
      position: relative;
      
 }
-/*------------------------------------------------------Table*/
+/*---------------------------------------------------------------------------Table*/
 .tables-container{
      
     background-image: linear-gradient(rgba(0,0,26,.96),rgba(53, 1, 1, 0.96));
@@ -625,6 +631,9 @@ footer h5{
      border: 2px solid #131392;
      color: #fafafa;
 }
+
+
+/*---------------------------------------Media Query for different things on mobile and tablet view */
 
 @media (max-width:380px){
 
@@ -729,8 +738,9 @@ display: none;
     margin-left: 5%;
 }
      .btn-info{
+         font-size: 15px;
          height: 10%;
-        width: 20%;
+        width: 30%;
          }
          
          
