@@ -177,6 +177,7 @@ font-family: 'Roboto', sans-serif;
 
 
 /*-------------------------------------------photos, id's, buttons, colors */
+
 #btn-red{
     background-color: rgb(209, 10, 10);
     padding: .5rem 1rem;
@@ -236,6 +237,12 @@ font-family: 'Roboto', sans-serif;
 #photo img{
     width: 100%;
 }
+
+.little-man{ /* -----------------------------Styling for little-man--*/
+        padding-top: 50px;
+         margin-bottom: 100px;
+    color: #fafafa;
+    }
 
 
 /*-------------------------------------------Header */
@@ -668,17 +675,7 @@ display: none;
 @media (max-width: 1024px){
     .navbar-nav{
     margin-left: 20%;
-}
-
-.social-links{
-
-    margin-left: 0 auto;
-
-}
-
-
-
-
+    }
 @media (max-width: 900px) {
 
      .navbar-nav{
@@ -711,8 +708,7 @@ display: none;
     background-color: rgb(209, 10, 10);
     border-color: rgb(209, 10, 10);
         height: 20%;
-        width: 40%;
-        border-radius: 40%;
+        width: 30%;  
     }
 
     .lead{
@@ -723,9 +719,7 @@ display: none;
     .expert-display{
         font-size: 1.3rem;
     }
-
-
-
+    
 }
 
 
@@ -734,15 +728,27 @@ display: none;
      .navbar-nav{
     margin-left: 5%;
 }
+     .btn-info{
+         height: 10%;
+        width: 20%;
+         }
+         
+         
 }
 
 @media (max-width: 350px){
 
     
-        .display-1{
+    .display-1{
             font-size: 3rem;
         }
-        .profile-description p{
+    .profile-description p{
             font-size: 19px;
         }
+        .btn-info{
+        font-size: 14px;
+        height: 10%;
+        width: 30%;
+         }
+}
 }
